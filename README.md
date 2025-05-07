@@ -1,5 +1,6 @@
-# Google-BERT-on-fake_or_real-news-dataset
-**Description**: Use Google BERT on fake_or_real news dataset with best f1 score: 0.986
+# BERT SCORE ANALYSIS FOR LEGITIMATE OR FAKE NEWS (MERN X AI)
+Reviewed by Shashank
+**Description**: Use Google BERT on fake/real news with best f1 score: 0.986
 
 Table of Contents
 =================
