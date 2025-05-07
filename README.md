@@ -569,4 +569,4 @@ model.to(device)
 ```Python
 model_ft1 = train_model(model, criterion, optimizer_ft, exp_lr_scheduler,num_epochs=10)
 ```
-
+# SHASHANK 
